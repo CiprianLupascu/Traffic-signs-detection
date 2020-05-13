@@ -62,3 +62,20 @@ This script uses your webcam to detect 4 traffic signs and a pedestrian model
 
 After running the code the results should look like this
 
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
+
+![](images/5.png)
+
+This was my part in the BFMC2020 contest where me and my team had to develope an autonomous driving car algorithm using raspberry pi and nucleo boards. 
+
+The car can cross intersections, stop when it detects a pedestrian and park when detects the parking sign
+
+Here you can see the car performing a few tasks on the track
+
+https://drive.google.com/drive/folders/1uKzgPz9mh71zM23fmOII8WQsiaBDKj3A?fbclid=IwAR1967_PEPygsGkiqJ_lAJiKUsXAre5Eqc0-rM6oLF1wmpXxxIhQKUMxhCo
