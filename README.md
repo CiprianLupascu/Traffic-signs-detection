@@ -56,3 +56,9 @@ Open the Object_detection_webcam script and run it
 
 This script uses your webcam to detect 4 traffic signs and a pedestrian model
 
+![](images/pedestrian.png)
+
+![](images/semne.png)
+
+After running the code the results should look like this
+
