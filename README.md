@@ -1,3 +1,5 @@
+## Traffic-signs-detection
+
 For this project I have worked with anaconda command terminal
 
 !!!!(You will have to install the CUDA toolkit and cuDNN from nVidia in order to run the code. I have used the version 8)!!!
@@ -23,29 +25,13 @@ Install tensorflow-gpu in this environment by issuing:
 Install the other necessary packages by issuing the following commands:
 ```
 (tensorflow1) C:\> conda install -c anaconda protobuf
-```
-```
 (tensorflow1) C:\> pip install pillow
-```
-```
 (tensorflow1) C:\> pip install lxml
-```
-```
 (tensorflow1) C:\> pip install Cython
-```
-```
 (tensorflow1) C:\> pip install contextlib2
-```
-```
 (tensorflow1) C:\> pip install jupyter
-```
-```
 (tensorflow1) C:\> pip install matplotlib
-```
-```
 (tensorflow1) C:\> pip install pandas
-```
-```
 (tensorflow1) C:\> pip install opencv-python
 ```
 Then cd to the "traffic signs model" folder 
